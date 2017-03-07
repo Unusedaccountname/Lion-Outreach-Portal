@@ -17,7 +17,7 @@ echo "You are not logged in. Click <a href='register.php'> here </a> to register
 
 echo "<b>
 
- ".$row['name']."'s SFU Outreach Blog
+ ".$row['name']."'s TAMUC's Outreach Blog
 
  </b>
  
