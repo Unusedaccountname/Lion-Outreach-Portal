@@ -100,7 +100,7 @@ else
 	
 	if(allupdates[i].screenname === "null"){
 	
-	test = test + "	posted on mySFU blog: ";
+	test = test + "	posted on myTAMUC blog: ";
 	
 	} else {
 	
