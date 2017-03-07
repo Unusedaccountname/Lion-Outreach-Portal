@@ -96,7 +96,7 @@ $user_id = $_SESSION['user'];
     <br/> 
     <b>
 
-     ".$name."'s SFU blog entries:
+     ".$name."'s TAMUC blog entries:
 	 
 	 </b>	
     <br/> ---------------------------------------------------------  <br />";	 		 
